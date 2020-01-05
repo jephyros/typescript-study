@@ -1,4 +1,5 @@
 import * as CryptoJS from "crypto-js";
+//const str:string ="dd";
 
 class Block {
 
